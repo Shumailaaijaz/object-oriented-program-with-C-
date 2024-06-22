@@ -1,4 +1,3 @@
-What is Object-Oriented Programming (OOP)
 Object-Oriented Programming (OOP) is a programming paradigm that uses objects and classes to design and develop software applications. It is based on the concept of objects, which can contain data in the form of fields (attributes or properties) and code in the form of procedures (methods or functions).
 
 Object-Oriented Programming offers several benefits, including:
@@ -11,4 +10,3 @@ Flexibility: OOP provides flexibility in designing and implementing software sys
 
 Scalability: OOP supports scalability by allowing you to add new objects and classes as the system grows. This makes it easier to accommodate changes and enhancements in the software.
 
-git
