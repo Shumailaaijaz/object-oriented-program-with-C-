@@ -10,3 +10,11 @@ Flexibility: OOP provides flexibility in designing and implementing software sys
 
 Scalability: OOP supports scalability by allowing you to add new objects and classes as the system grows. This makes it easier to accommodate changes and enhancements in the software.
 
+The four pillars of Object-Oriented Programming are:
+
+Inheritance
+Encapsulation
+Polymorphism
+Abstraction
+These pillars form the foundation of OOP and are essential concepts to understand when working with object-oriented programming languages like C#.
+
